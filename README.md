@@ -1,16 +1,23 @@
-## Hi there 👋
+Olli Karejoki
 
-<!--
-**koodikommando/koodikommando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Finland. I spent a decade as a professional musician before moving into tech, and I've been building software full time since 2023.
 
-Here are some ideas to get you started:
+Portfolio: https://www.ollikoodaa.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background
+
+I graduated from Hive Helsinki (part of the 42 network), where the curriculum is built around C and C++ with no frameworks or shortcuts. That gave me a solid understanding of what's actually happening underneath the tools I use day to day.
+
+After graduating I worked a fixed-term frontend position at a SaaS startup, and I'm currently doing freelance full stack work for clients with React, Next.js and TypeScript. I pick up new tools and stacks quickly, and I'm looking to trade freelancing for a team role where I can keep growing into a broader stack.
+
+Stack
+
+Languages: TypeScript, JavaScript, Python, C, C++
+
+Frontend: React, Next.js, Tailwind CSS, Framer Motion, GSAP
+
+Backend: Node.js, Express, Fastify, PostgreSQL, Supabase, WebSockets, REST APIs
+
+AI / tooling: Anthropic API, OpenAI API, pgvector, RAG pipelines, Sanity CMS
+
+DevOps: Docker, Nginx, Vercel, GitHub Actions, AWS (Lambda, API Gateway, IAM), Terraform
