@@ -1,6 +1,6 @@
 Olli Karejoki
 
-Software developer based in Finland. I spent a decade as a professional musician before moving into tech, and I've been building software full time since 2023.
+Software developer based in Finland. I've been building software full time since 2023.
 
 Portfolio: https://www.ollikoodaa.com/
 
