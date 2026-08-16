@@ -1,12 +1,12 @@
 Olli Karejoki
 
-Software developer based in Finland. I've been building software full time since 2023.
+Software developer based in Finland. I've been coding since 2023.
 
 Portfolio: https://www.ollikoodaa.com/
 
 Background
 
-I graduated from Hive Helsinki (part of the 42 network), where the curriculum is built around C and C++ with no frameworks or shortcuts. That gave me a solid understanding of what's actually happening underneath the tools I use day to day.
+I graduated from Hive Helsinki (part of the 42 network) in 2025, where the curriculum is built around C and C++ with no frameworks or shortcuts. That gave me a solid understanding of what's actually happening underneath the tools I use day to day.
 
 After graduating I worked a fixed-term frontend position at a SaaS startup, and I'm currently doing freelance full stack work for clients with React, Next.js and TypeScript. I pick up new tools and stacks quickly, and I'm looking to trade freelancing for a team role where I can keep growing into a broader stack.
 
