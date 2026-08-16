@@ -21,3 +21,5 @@ Backend: Node.js, Express, Fastify, PostgreSQL, Supabase, WebSockets, REST APIs
 AI / tooling: Anthropic API, OpenAI API, Claude Code, MCP-Servers, Sanity CMS
 
 DevOps: Docker, Nginx, Vercel, GitHub Actions, AWS (Lambda, API Gateway, IAM), Terraform
+
+Testing: Playwright
